@@ -73,7 +73,7 @@ public class MainActivity extends Activity implements Session.SearchListener, Ca
         });
 
         mapView.getMap().move(
-                new CameraPosition(new Point(43.1162355,131.9039189), 12.0f, 0.0f, 0.0f));
+                new CameraPosition(new Point(39.65417,66.95972), 6.0f, 0.0f, 0.0f));
                 new Animation(Animation.Type.SMOOTH, 5);
 
 
